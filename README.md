@@ -1,2 +1,2 @@
-# python-tutoria-
+# python-tutorial-
 we are learning
